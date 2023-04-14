@@ -118,7 +118,7 @@ def rename_columns(dataframe):
     return df
 
 def load_dataset():
-    df = pd.read_csv('data\zomato.csv')
+    df = pd.read_csv('data/zomato.csv')
     return df
 
 def clean_data (df):
