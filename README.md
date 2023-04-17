@@ -88,3 +88,6 @@ O painel pode ser acessado através desse link: https://food-place.streamlit.app
 O objetivo desse projeto é criar um conjunto de gráficos e/ou tabelas que exibam essas métricas da melhor forma possível para o CEO.
 
 # 7. Próximos passos
+1. Tentar adicionar restaurantes de outros países
+2. Criar novos filtros no dashboard
+3. Adicionar novas visões de negócio
